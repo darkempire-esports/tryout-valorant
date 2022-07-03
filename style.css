@@ -65,7 +65,7 @@ text-align: center;
 
 @media (max-width: 900px) {
     body{
-        font-size: 20px;
+        font-size: 17px;
         background-color: grey;
     }
 
@@ -89,7 +89,7 @@ text-align: center;
 .w3-container{
     text-align: center;
     margin-left: 150px;
-    width: 505px;
+    width: 500px;
 
     }
 
@@ -119,7 +119,7 @@ text-align: center;
 
 @media (max-width: 600px) {
     body{
-        font-size: 19px;
+        font-size: 17px;
         background-color: grey;
     }
 
@@ -133,7 +133,7 @@ text-align: center;
 
         width: auto;
         height: 400px;
-        margin-left: 60px;
+        margin-left: 30px;
 
     }
 
